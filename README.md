@@ -1,5 +1,5 @@
 ## About me:
-d
+I am a passionate developer from the NYC metro area with years of experience currently studying at Tufts University. I worked at a venture capital crypto fund and taught kids how to program in HTML/CSS and Js.
 
 ## My languages:
 <div>
