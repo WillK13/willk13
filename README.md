@@ -4,17 +4,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000&size_weight=1&count_weight=0).
 
-<!--
-**WillK13/willk13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My languages:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect:
+<div id="header" align="center">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/will-kaminski-ba9b52262/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=willk13&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
+</div>
