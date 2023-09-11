@@ -22,12 +22,12 @@ I am a passionate developer from the NYC metro area with years of experience cur
 ## Connect:
   <div id="badges">
     <a href="https://www.linkedin.com/in/will-kaminski-ba9b52262/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
     </a>
   </div>
   <p><break></p>
     <a href="https://www.instagram.com/willswim/?hl=en">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" target="_blank"/>
     </a>
     <p><break></p>
   <img src="https://komarev.com/ghpvc/?username=willk13&style=flat-square&color=blue" alt=""/>
