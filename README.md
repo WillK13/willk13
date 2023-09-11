@@ -1,12 +1,6 @@
 ## About me:
 d
 
-## Stats:
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willk13&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000&size_weight=1&count_weight=0).
-
 ## My languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -18,6 +12,12 @@ d
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+
+## Stats:
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willk13&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000&size_weight=1&count_weight=0).
 
 ## Connect:
   <div id="badges">
