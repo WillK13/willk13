@@ -26,6 +26,10 @@ I am a passionate developer from the NYC metro area with years of experience cur
     </a>
   </div>
   <p><break></p>
+    <a href="https://www.instagram.com/willswim/?hl=en">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <p><break></p>
   <img src="https://komarev.com/ghpvc/?username=willk13&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
