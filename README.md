@@ -1,5 +1,5 @@
 ## About me:
-I am a developer from the NYC metro area with years of programming experience currently studying at Tufts University. I worked at a venture capital crypto fund and taught kids how to program in HTML/CSS and Js. I also have several years of research experience.
+I am a developer from the NYC metro area with years of programming experience currently studying at Tufts University. I worked at a venture capital crypto fund and taught kids how to program in HTML/CSS and Js. I also have several years of research experience at Stevens Institute of Technology.
 
 ## My languages:
 <div>
