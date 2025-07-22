@@ -20,7 +20,7 @@ I am a developer from the NYC metro area with years of programming experience cu
   
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willk13&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000&size_weight=1&count_weight=0).
+![Top Langs](https://github-readme-stats-wills-projects-876750ed.vercel.app/).
 
 ## Connect:
   <div id="badges">
