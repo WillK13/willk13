@@ -1,5 +1,5 @@
 ## About me:
-I am a developer from the NYC metro area with years of programming experience currently studying at Tufts University. I am a founder and CTO of Peeking, an app built around AI for simplified job matching between employers and employees. I worked at a venture capital crypto fund and taught kids how to program in HTML/CSS and Js. I also have several years of research experience at Stevens Institute of Technology.
+I am a developer from the NYC metro area with years of programming experience currently studying at Tufts University. I studying computer science with astrophysics and entrepreneurship minors. I also have several years of research experience at Stevens Institute of Technology and am not doing sustainable data science research at Tufts.
 
 ## My languages:
 <div>
@@ -18,7 +18,7 @@ I am a developer from the NYC metro area with years of programming experience cu
 
 ## Stats:
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willk13&theme=dark&background=000000)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willk13&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
 ![Top Langs](https://github-readme-stats-pi-rosy.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000)
 
