@@ -1,5 +1,5 @@
 ## About me:
-I am a developer from the NYC metro area with years of programming experience currently studying at Tufts University. I studying computer science with astrophysics and entrepreneurship minors. I also have several years of research experience at Stevens Institute of Technology and am not doing sustainable data science research at Tufts.
+I am a developer from the NYC metro area with years of programming experience currently studying at Tufts University. I studying computer science with astrophysics and entrepreneurship minors. I also have several years of research experience at Stevens Institute of Technology and am now doing sustainable data science research at Tufts.
 
 ## My languages:
 <div>
