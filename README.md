@@ -16,11 +16,11 @@ I am a developer from the NYC metro area with years of programming experience cu
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
 </div>
 
-## Stats:
+<!--## Stats:-->
   
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=willk13&theme=dark&background=000000)](https://git.io/streak-stats)-->
 
-![Top Langs](https://github-readme-stats-pi-rosy.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000)
+<!--![Top Langs](https://github-readme-stats-pi-rosy.vercel.app/api/top-langs/?username=willk13&theme=dark&background=000000)-->
 
 ## Connect:
   <div id="badges">
